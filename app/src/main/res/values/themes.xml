@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.DnsEncrypt" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#4D6BFE</item>
+    </style>
+</resources>
